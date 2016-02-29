@@ -1,0 +1,9 @@
+*certs/
+build_image.sh
+run_container.sh
+do_all.sh
+__pycache__
+.DS_Store
+*.pyc
+*.pyo
+*.lprof
